@@ -1,1 +1,1 @@
-"# New" 
+#This is visual clone of the myntra website which was created by me with help of some tutorials during my learning phase
